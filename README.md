@@ -1,4 +1,4 @@
-# Resika-MD-web-pair
+# Resika-MD
 
 # Get you session id
 
