@@ -12,4 +12,4 @@ https://chat.whatsapp.com/KRXY4sfAJ4rEp9qkf90BjX
 
 
 
-This Bot Created By Resika Hirushan
+# * This Bot Created By Resika Hirushan * # 
